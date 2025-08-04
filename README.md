@@ -27,13 +27,13 @@ This project presents an **automated coffee vending machine** that is controlled
 
 ### Block Diagram and Flowchart
 
-![Block Diagram and Flowchart](./26dc4b90-3d81-49f5-8804-b66a2fac4bbf.jpg)
+![Block Diagram and Flowchart](./Block_Diagram.jpg)
 
 ---
 
 ### Timing Diagram (Simulation Output)
 
-![Simulation Output](./b62344c5-91ca-4b1d-bdd7-fc183f697f07.jpg)
+![Simulation Output](./Simulation.jpg)
 
 ---
 
