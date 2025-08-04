@@ -21,7 +21,7 @@ This project presents an **automated coffee vending machine** that is controlled
 
 ### Cover Page
 
-![Poster Cover](./f55f72a4-a42d-4f5c-a72c-785ca77fc0ac.jpg)
+![Poster Cover](./Poster_Cover.jpg)
 
 ---
 
